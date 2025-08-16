@@ -1,6 +1,6 @@
 ﻿using System.Threading.Channels;
 
-internal class Exercises001
+internal class Exercises01
 {
     static void Main()
     {
